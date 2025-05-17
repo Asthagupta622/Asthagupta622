@@ -10,8 +10,8 @@
 ## 💻 Skills
 - Programming Languages: **Python**, **C++**, **JavaScript**
 - Machine Learning & AI: **TensorFlow**, **Scikit-learn**, **OpenCV**, **XGBoost**
-- Web & App Development: **React.js**, **Flask**, **Android Studio**
-- Databases & Tools: **MongoDB**, **Firebase**, **Git**, **GitHub**
+- Web & App Development: **React.js**, **Flask**, **AI**
+- Databases & Tools: **MongoDB**, **SQL**, **Git**, **GitHub**
 
 ## 🚀 Projects
 - **Stroke Prediction Chatbot**  
@@ -24,8 +24,8 @@
   Built a real-time emotion detection system leveraging deep learning and OpenCV for video processing.
 
 ## 📫 Contact Me
-- Email: astha.your.email@example.com  
-- LinkedIn: [linkedin.com/in/asthagupta](https://linkedin.com/in/asthagupta)  
+- Email: asthagupta622@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/asthagupta622/ 
 - Portfolio: *(Add your portfolio URL here if you have one)*
 
 ---
