@@ -1,4 +1,4 @@
-# Hi, I'm Astha Gupta 👋
+# Hi, I'm Astha Gupta 👋😊
 
 ## 🏆 Achievements
 - Currently working at **Stick and Dot** as an **AI/ML Developer**
@@ -26,7 +26,7 @@
 ## 📫 Contact Me
 - Email: asthagupta622@gmail.com 
 - LinkedIn: https://www.linkedin.com/in/asthagupta622/ 
-- Portfolio: *(Add your portfolio URL here if you have one)*
+
 
 ---
 
