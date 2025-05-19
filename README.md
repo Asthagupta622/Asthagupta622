@@ -1,4 +1,5 @@
 # Hi, I'm Astha Gupta 👋😊
+## AI/ML Engineer/SDE 
 
 ## 🏆 Achievements
 - Currently working at **Stick and Dot** as an **AI/ML Developer**
