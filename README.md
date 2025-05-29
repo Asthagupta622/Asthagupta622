@@ -28,7 +28,7 @@
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-AsthaGupta622-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/asthagupta622/)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-AsthaGupta622-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/asthagupta622/practice/)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-AsthaGupta622-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/asthagupta622)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-AsthaGupta622-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/asthagupta62)  
 [![Code360](https://img.shields.io/badge/Coding%20Ninjas-Code360-blueviolet?style=for-the-badge&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/asthagupta622)
 
 
